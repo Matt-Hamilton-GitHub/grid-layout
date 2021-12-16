@@ -189,7 +189,7 @@ grid-area: one;
 
  }
 
-  @media (min-width: 50em){
+  @media (min-width: 60em){
 
    /* 1ST WAY
 
@@ -211,7 +211,7 @@ grid-area: one;
 .testimonial-grid{
   grid-template-areas:
   'one one two five'
-  'three two four four five'
+  'three four four five'
 }
 
   }
